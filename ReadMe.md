@@ -57,7 +57,7 @@ now I'm junior back end developer, a freelancer and student at The National Riba
 <a href="https://www.instagram.com/monzersmiledev/"><img alt="Instagram" src=""></a>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/monzersmiledev/)](https://www.facebook.com/monzersmiledev)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+249121601505&text=Hi!)](https://api.whatsapp.com/send?phone=+240121601505&text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+249121601505&text=Hi!)](https://api.whatsapp.com/send?phone=+249121601505&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/monzersmiledev/)](https://twitter.com/monzersmiledev/)
 
 </p>
