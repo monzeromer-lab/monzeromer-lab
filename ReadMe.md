@@ -2,7 +2,7 @@
 <h2>  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-end+Web+Developer+;JavaScript+%7C+React+%2B%7C;Nodejs+%7C+Express+%7C+MongoDB+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-end+Web+Developer+;JavaScript+%7C+React+;Nodejs+%7C+Express+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
  
 </P>
 if it works don't leave it, Make it simple
