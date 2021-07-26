@@ -7,7 +7,7 @@
 </P>
 if it works don't leave it, Make it simple
 
-Hello my name is monzer I'm 21 years old and I found my passion in coding so I'm a junior Nodejs Back-end Developer
+Hello my name is monzer I'm 21 years old and I found my passion in coding so I'm a Full Stack Developer
 
 I love photography , music and filmmaking
 
@@ -15,13 +15,13 @@ my journey as a developer started from a Bus!!
 i used to explain some php codes to my friend and the guy who sit next to me was Jihad Fayez who's the Team leader at EnayaTech since that day I know that I should keep on going and learn new stuff
 starting from Android development with java which I found myself not good at it to back-end development with nodejs which is the best I've ever done before for me
 
-now I'm junior back end developer, a freelancer and student at The National Ribat University in the 5th Semester
+now I'm Full Stack developer, a freelancer and student at The National Ribat University in the 5th Semester
 
 <h3>  💻 &nbsp; More About Me </h3>
 
--  🎓 &nbsp; I’m currently learning React, Javascript, Nodejs.
+-  🎓 &nbsp; I’m currently learning Electron.
 -  👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
--  🎓 &nbsp; 2021 Goals: Master React, create Open Source projects
+-  🎓 &nbsp; 2021 Goals: Master React, Create Open Source projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
