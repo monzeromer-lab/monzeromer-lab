@@ -2,7 +2,7 @@
 <h2>  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-end+Web+Developer+;JavaScript+%7C+React+;Nodejs+%7C+Express+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back-end+Web+Developer+;JavaScript+%7C+React+%7C+electron;Nodejs+%7C+Express+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
  
 </P>
 if it works don't leave it, Make it simple
@@ -32,6 +32,7 @@ now I'm junior back end developer, a freelancer and student at The National Riba
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+   ![Electron](https://img.shields.io/badge/-React-333333?style=flat&logo=electron)
 -  🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
