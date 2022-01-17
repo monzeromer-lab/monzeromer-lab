@@ -2,7 +2,7 @@
 <h2>  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+JavaScript;Express+%7C+React+%7C+Electron;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+JavaScript;Express+%7C+Electron;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
  
 </P>
 if it works don't leave it, Make it simple
@@ -31,7 +31,8 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+   [comment]: <> (![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react))
+   [comment]: <> (React+%7C+)
    ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 -  🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
