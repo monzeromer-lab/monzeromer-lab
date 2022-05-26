@@ -31,8 +31,6 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-   [comment]: <> (![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react))
-   [comment]: <> (React+%7C+)
    ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 -  🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
