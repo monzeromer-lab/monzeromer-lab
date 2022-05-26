@@ -46,13 +46,19 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
 
 <br/>
 
-<h3> ⚙️ &nbsp;GitHub Analytics</h3>
+   <h3> ⚙️ &nbsp;GitHub Analytics</h3>
+<br>
 <p align="center">
-<a href="https://github.com/monzersmiledev">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=algolia" />
+<!--   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzersmiledev&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monzersmiledev&theme=algolia" />  
+<!-- <a href="https://github.com/monzersmiledev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzersmiledev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</a> radical-->
+
 </p>
+
 
 <br/>
 
