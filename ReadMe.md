@@ -1,5 +1,6 @@
-<div style="background-color: #1e1e1e;">
 ![](https://komarev.com/ghpvc/?username=monzersmiledev&label=PROFILE+VIEWS)
+
+<div style="background-color: #1e1e1e;">
 <h2 style="color: #f2f2f2;">  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
