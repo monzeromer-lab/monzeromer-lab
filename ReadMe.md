@@ -1,5 +1,6 @@
+<div style="background-color: #1e1e1e;">
 ![](https://komarev.com/ghpvc/?username=monzersmiledev&label=PROFILE+VIEWS)
-<h2>  Hi there! I'm Monzer Abdullaziz. </h2>
+<h2 style="color: #f2f2f2;">  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+JavaScript;Express+%7C+Electron;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
@@ -17,13 +18,13 @@ starting from Android development with java which I found myself not good at it 
 
 now I'm Full Stack developer, a freelancer and student at The National Ribat University in the 6th Semester
 
-<h3>  💻 &nbsp; More About Me </h3>
+<h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
 
 -  🎓 &nbsp; I’m currently learning Electron & VueJs.
 -  👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 -  🎓 &nbsp; 2022 Goals: Create Content, Create Open Source projects
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3 style="color: #f2f2f2;"> 🛠 &nbsp;Tech Stack</h3>
 
 -  🌐 &nbsp;
    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -44,7 +45,7 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
 
 <br/>
 
-   <h3> ⚙️ &nbsp;GitHub Analytics</h3>
+   <h3 style="color: #f2f2f2;"> ⚙️ &nbsp;GitHub Analytics</h3>
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=algolia" />
@@ -56,7 +57,7 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 style="color: #f2f2f2;"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
 <a href="mailto:monzersmiledev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-monzersmiledev@outlook.com-blue?style=flat-square&logo=gmail"></a>
@@ -68,3 +69,4 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/monzersmiledev/)](https://twitter.com/monzersmiledev/)
 
 </p>
+</div>
