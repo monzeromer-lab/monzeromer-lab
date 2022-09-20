@@ -61,7 +61,7 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
 <h3 style="color: #f2f2f2;"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="mailto:monzersmiledev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-monzersmiledev@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:monzer.a.omer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-monzer.a.omer@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/monzersmiledev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Monzer%20Abdullaziz%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/monzersmiledev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-monzersmiledev-blue?style=flat-square&logo=instagram"></a>
 
