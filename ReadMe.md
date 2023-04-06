@@ -32,6 +32,7 @@ Lets Connect😊👋
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+   ![Nest](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
    ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
    ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
    ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
