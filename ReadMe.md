@@ -7,23 +7,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+TypeScript;Nestjs+%7C+Electron;Nodejs+%7C+Deno;MongoDB+%7C+MySQL;Angular+%7C+Vue)](https://git.io/typing-svg)
  
 </P>
-if it works don't leave it, Make it simple
+Hi there, my name is Monzer Abdulaziz and I am a backend developer, Student and GDSC Lead at The National Ribat University. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
 
-Hello my name is monzer I'm 22 years old and I found my passion in coding so I'm a Full Stack Developer
+I have experience working with a variety of languages and frameworks, including JavaScript and Python. I am skilled in developing and deploying scalable and secure systems that can handle a large amount of traffic and data.
 
-I love photography , music and filmmaking
+I am passionate about using technology to solve complex problems and create user-friendly, intuitive experiences. I enjoy working closely with frontend developers, designers, and product managers to build high-quality, well-designed products.
 
-my journey as a developer started from a Bus!!
-i used to explain some php codes to my friend and the guy who sit next to me was Jihad Fayez who's the Team leader at EnayaTech since that day I know that I should keep on going and learn new stuff
-starting from Android development with java which I found myself not good at it to back-end development with nodejs which is the best I've ever done before for me
+I am constantly learning and staying up-to-date with the latest developments in the field of backend development, and I am always looking for new opportunities to grow and improve as a developer. Thank you for taking the time to learn more about me.
 
-now I'm Full Stack developer, a freelancer and student at The National Ribat University in the 6th Semester
+Lets Connect😊👋
 
 <h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
 
--  🎓 &nbsp; I’m currently learning Electron & VueJs.
--  👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+-  🎓 &nbsp; I’m a final year student at National Ribat University.
+-  👯 &nbsp; I’m looking forward to collaborate on Open Source projects which I consider interesting or useful.
 -  🎓 &nbsp; 2022 Goals: Create Content, Create Open Source projects
+-  😎 &nbsp; I'm learning how to build a scripting language for fun (checkout scripting-language repo😉)
 
 <h3 style="color: #f2f2f2;"> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,6 +33,9 @@ now I'm Full Stack developer, a freelancer and student at The National Ribat Uni
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
    ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
+   ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
+   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+   ![Vue](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vuejs)
 -  🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
