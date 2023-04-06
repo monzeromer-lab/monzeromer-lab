@@ -4,7 +4,7 @@
 <h2 style="color: #f2f2f2;">  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+JavaScript;Express+%7C+Electron;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+TypeScript;Nestjs+%7C+Electron;Nodejs+%7C+Deno;MongoDB+%7C+MySQL;Angular+%7C+Vue)](https://git.io/typing-svg)
  
 </P>
 if it works don't leave it, Make it simple
