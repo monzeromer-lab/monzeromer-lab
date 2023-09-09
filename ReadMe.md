@@ -7,54 +7,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+TypeScript;Nestjs+%7C+Electron;Nodejs+%7C+Deno;MongoDB+%7C+MySQL;Angular+%7C+Vue)](https://git.io/typing-svg)
  
 </P>
-Hi there, my name is Monzer Abdulaziz and I am a backend developer, Student and GDSC Lead at The National Ribat University. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
+Hi there, my name is Monzer Abdulaziz and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
 
-I have experience working with a variety of languages and frameworks, including JavaScript and Python. I am skilled in developing and deploying scalable and secure systems that can handle a large amount of traffic and data.
+I believe that all programming languages & frameworks are just tools so I choose not to stick with a specific technology. I am skilled in developing and deploying scalable and secure systems that can handle a large amount of traffic and data.
 
-I am passionate about using technology to solve complex problems and create user-friendly, intuitive experiences. I enjoy working closely with frontend developers, designers, and product managers to build high-quality, well-designed products.
+I am passionate about using technology to solve complex problems and create user-friendly, intuitive experiences. I enjoy working closely with other developers, designers, and product managers to build high-quality, well-designed products.
 
-I am constantly learning and staying up-to-date with the latest developments in the field of backend development, and I am always looking for new opportunities to grow and improve as a developer. Thank you for taking the time to learn more about me.
-
-Lets Connect😊👋
-
-<h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
-
--  🎓 &nbsp; I’m a final year student at National Ribat University.
--  👯 &nbsp; I’m looking forward to collaborate on Open Source projects which I consider interesting or useful.
--  🎓 &nbsp; 2022 Goals: Create Content, Create Open Source projects
--  😎 &nbsp; I'm learning how to build a scripting language for fun (checkout scripting-language repo😉)
-
-<h3 style="color: #f2f2f2;"> 🛠 &nbsp;Tech Stack</h3>
-
--  🌐 &nbsp;
-   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-   ![Nest](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
-   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-   ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
-   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-   ![Vue](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vuejs)
--  🛢 &nbsp;
-   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
--  ⚙️ &nbsp;
-   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
--  🔧 &nbsp;
-   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+Software development is more of a passion than career for me, I try as much as possible to keep up with technologies everyday change, and I'm always looking for new challenges and  opportunities to grow and improve my skills
 
 <br/>
 
    <h3 style="color: #f2f2f2;"> ⚙️ &nbsp;GitHub Analytics</h3>
 <br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=algolia" />
-<img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzersmiledev&layout=compact&langs_count=8&theme=algolia"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monzersmiledev&theme=algolia" />  
+<p align="start">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=dark" />
+<img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzersmiledev&layout=compact&langs_count=8&theme=dark"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monzersmiledev&theme=dark" />  
 
 </p>
 
