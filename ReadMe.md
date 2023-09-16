@@ -1,10 +1,12 @@
+<div style="background-color: #1e1e1e;">
+ 
 ![](https://komarev.com/ghpvc/?username=monzersmiledev&label=PROFILE+VIEWS)
 
-<div style="background-color: #1e1e1e;">
+
 <h2 style="color: #f2f2f2;">  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+%7C+TypeScript;Nestjs+%7C+Electron;Nodejs+%7C+Deno;MongoDB+%7C+MySQL;Angular+%7C+Vue)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;TypeScript+%7C+Rust+%7C+Dart;)](https://git.io/typing-svg)
  
 </P>
 Hi there, my name is Monzer Abdulaziz and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
@@ -18,14 +20,13 @@ Software development is more of a passion than career for me, I try as much as p
 <br/>
 
    <h3 style="color: #f2f2f2;"> ⚙️ &nbsp;GitHub Analytics</h3>
-<br>
+
 <p align="start">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=dark" />
 <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzersmiledev&layout=compact&langs_count=8&theme=dark"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monzersmiledev&theme=dark" />  
 
 </p>
-
 
 <br/>
 
