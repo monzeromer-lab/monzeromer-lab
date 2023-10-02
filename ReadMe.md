@@ -3,7 +3,7 @@
 <h2 style="color: #f2f2f2;">  Hi there! I'm Monzer Abdullaziz. </h2>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;TypeScript+%7C+Rust+%7C+Dart;)](https://git.io/typing-svg)
+[//]: <> ([![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;TypeScript+%7C+Rust+%7C+Dart;)](https://git.io/typing-svg))
  
 </P>
 Hi there, my name is Monzer Abdulaziz and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
