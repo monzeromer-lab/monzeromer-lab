@@ -17,7 +17,6 @@ Software development is more of a passion than career for me, I try as much as p
 <p align="start">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monzersmiledev&show_icons=true&theme=dark" />
 <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzersmiledev&layout=compact&langs_count=8&theme=dark"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monzersmiledev&theme=dark" />  
 
 </p>
 
