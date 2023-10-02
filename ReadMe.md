@@ -1,12 +1,8 @@
 <div style="background-color: #1e1e1e;">
 
-<h2 style="color: #f2f2f2;">  Hi there! I'm Monzer Abdullaziz. </h2>
- <p>
- 
-[//]: <> ([![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;TypeScript+%7C+Rust+%7C+Dart;)](https://git.io/typing-svg))
- 
-</P>
-Hi there, my name is Monzer Abdulaziz and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
+<h2 style="color: #f2f2f2;">Hello World!👋 </h2>
+
+This is Monzer Omer and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
 
 I believe that all programming languages & frameworks are just tools so I choose not to stick with a specific technology. I am skilled in developing and deploying scalable and secure systems that can handle a large amount of traffic and data.
 
