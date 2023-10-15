@@ -1,6 +1,6 @@
 
 <h2 style="color: #f2f2f2;">Hello World!👋 </h2>
-This is Monzer Omer and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day.
+This is Monzer Omer and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day. <br/><br/>
 Software development is more of a passion than career for me, I try as much as possible to keep up with technologies everyday change, and I'm always looking for new challenges and  opportunities to grow and improve my skills
 
 <h2 style="color: #f2f2f2;">GitHub Analytics⚙️ </h2>
