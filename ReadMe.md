@@ -1,7 +1,13 @@
 
 <h2 style="color: #f2f2f2;">Hello World!👋 </h2>
-This is Monzer Omer and I am a backend developer at SmartCare. I specialize in building and maintaining the servers, databases, and application logic that power the web and mobile applications we use every day. <br/><br/>
-Software development is more of a passion than career for me, I try as much as possible to keep up with technologies everyday change, and I'm always looking for new challenges and  opportunities to grow and improve my skills
+Hey there!</br>
+I'm Monzer Omer, a passonate software developer who is specialized in building the hiddin side of mobile and web applications, I build and maintain servers, databases and application logic that power the web and mobile apps we use everyday.
+
+Software development is my passion and my way of living, I'm always looking for new challnges to improve, gain more knowladge and getting to know more fellow devs!
+
+</br>
+<p style="font-size: 300px; color: #00ff00;">I'm open to work</p>
+</br>
 
 <h2 style="color: #f2f2f2;">GitHub Analytics⚙️ </h2>
 
@@ -15,7 +21,7 @@ Software development is more of a passion than career for me, I try as much as p
 <h2 style="color: #f2f2f2;">Tools ⚒ </h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -25,7 +31,7 @@ Software development is more of a passion than career for me, I try as much as p
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
