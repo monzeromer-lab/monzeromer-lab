@@ -1,13 +1,11 @@
 ## Monzer Omer - Backend Developer
 
-**Crafting Scalable Solutions for a Digital World**
+**I build amazing stuff**
 
 ### About Me
-I'm a dedicated backend developer with a passion for building robust and efficient software systems. With a strong foundation in TypeScript, JavaScript, and Rust, I specialize in designing and implementing scalable solutions for web and mobile applications. My expertise lies in architecting and developing backend systems that deliver exceptional user experiences.
+I'm a backend developer with a passion for building software systems. With a strong foundation in Rust, TypeScript, and JavaScript, I specialize in designing and implementing scalable solutions for web and mobile applications. My expertise lies in architecting and developing backend systems that deliver the best possible user experiences.
 
-I have a proven track record in the healthcare, education, and communication sectors, where I've successfully tackled complex challenges and delivered impactful solutions.
-
-### Top Skills
+### My Top Skills
 - **Rust**
 - **TypeScript**
 - **JavaScript**
@@ -16,15 +14,15 @@ I have a proven track record in the healthcare, education, and communication sec
 
 <div align="center" style="font-size: 30px; color: #00ff00;"><strong>I'm open to work</strong></div>
 
-## GitHub Analytics⚙️
+## GitHub Analytics 📊
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monzeromer-lab&locale=en&hide_title=true&card_width=220&langs_count=8&theme=dark&hide_border=true&order=2" height="180" alt="languages graph" /> 
 </div>
 
-## Tools ⚒
+## Technologies 💻
 
-### Programming Languages
+### Programming Languages 👨‍💻
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
   <img width="12" />
@@ -35,7 +33,7 @@ I have a proven track record in the healthcare, education, and communication sec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
 </div>
 
-### Frameworks & Libraries
+### Frameworks & Libraries 📒
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
@@ -56,7 +54,7 @@ I have a proven track record in the healthcare, education, and communication sec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
 </div>
 
-### Tools & Platforms
+### Tools & Platforms 🛠
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
@@ -77,7 +75,7 @@ I have a proven track record in the healthcare, education, and communication sec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
 </div>
 
-### Other Tools
+### Other Tools ⚙️
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
