@@ -17,7 +17,7 @@ I'm a backend developer with a passion for building software systems. With a str
 ## GitHub Analytics 📊
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monzeromer-lab&locale=en&hide_title=true&card_width=220&langs_count=8&theme=dark&hide_border=true&order=2" height="180" alt="languages graph" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monzeromer-lab&locale=en&hide_title=true&card_width=220&langs_count=8&theme=dark&hide_border=true&order=2" height="280" alt="languages graph" /> 
 </div>
 
 ## Technologies 💻
