@@ -1,3 +1,3 @@
 ## I build stuff
 
-cmon give me some starts
+cmon give me some stars
