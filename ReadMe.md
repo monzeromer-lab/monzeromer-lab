@@ -1,4 +1,4 @@
-## I build stuff (a lot of stuff, with AI too)
+## I build stuff (a lot of stuff)
 
 here's some of my best work: (pinned in my profile)
 
