@@ -1,9 +1,6 @@
 ## I build stuff (a lot of stuff)
 
-here's some of my best work: (pinned in my profile)
+here's some of my work: (pinned in my profile)
 
-
-if you liked it, give it a star and share with the nerds of yours.
-
-feel free to email me too:
+feel free to email me:
 monzer.a.omer@gmail.com
